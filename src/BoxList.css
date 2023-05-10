@@ -1,0 +1,9 @@
+.BoxList {
+    margin: auto;
+    width: 80vw;
+}
+
+.Box {
+    display: inline-block;
+    margin: 25px;
+}
