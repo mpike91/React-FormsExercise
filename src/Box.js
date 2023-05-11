@@ -10,7 +10,7 @@ const Box = ({ id, color, width, height, onButtonClick }) => {
         <div className="Box">
             <div style={style}>
             </div>
-            <button onClick={onButtonClick}>X</button>
+            <button id={id} onClick={onButtonClick}>X</button>
         </div>
     )
 }

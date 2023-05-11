@@ -23,7 +23,8 @@ const BoxList = () => {
     }
 
     const onButtonClick = (e) => {
-        console.log(e.target);
+        const { id } = e.target;
+        setBoxes(boxes.filter(box => box.id !== id));
     }
 
     return (
