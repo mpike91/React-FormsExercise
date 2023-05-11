@@ -2,7 +2,7 @@
 This app uses controlled components, ie forms, in React to allow a user to enter a color, width, and height to create a box. Boxes may be created, and each box may be deleted. The purpose of this app was to practice working with forms and controlled components in React.
 
 <p align="center">
-  <img width="50%" src="forms.png" alt="Image of app">
+  <img width="80%" src="forms.png" alt="Image of app">
 </p>
 
 ## Running the App
